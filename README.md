@@ -70,7 +70,7 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 ### 🔹 SoC Block-Level Physical Design — ORCA TOP (32 nm)
 *VLSI GURU Institute · Synopsys IC Compiler II*
 
-> Implemented full block-level PD on a real SoC block — **40 macros, 52,047 standard cells, 5 clocks @ 450 MHz**.
+> Implemented full block-level PD on a real SoC block — **40 macros, 52,047 standard cells, 4 clocks @ 450 MHz**.
 > Executed floorplanning → power planning → placement → CTS → routing, followed by DRC, LVS, and DFM checks.
 > Achieved **timing closure** and ECO optimization prior to tape-out.
 
@@ -89,8 +89,11 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 
 ## 🎓 Education
 
-- B.E / B.Tech – Electronics & Communication Engineering
-- Strong academic foundation in VLSI Design and Digital Electronics
+| Qualification | Institution | Year | Score |
+|---|---|---|---|
+| **B.E. in Electronics & Communication Engineering** | SKSVMA College of Engineering and Technology, VTU — Lakshmeshwar, Gadag | 2021–2025 | **CGPA: 7.6** |
+| **Pre-University Course (PUC)** | Vijaya PU College, Bengaluru | 2019–2021 | 65% |
+| **Class 10 (CBSE)** | Sri Sri Ravishankar Vidya Mandir, Bengaluru | 2018–2019 | 62% |
 
 ---
 
