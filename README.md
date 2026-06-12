@@ -94,13 +94,6 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 - Physical Design – VLSI Guru / Training Institute
 - VLSI Engineer Training
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathhottin&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathhottin&layout=compact&theme=dark&hide_border=true)
 
 ---
 
