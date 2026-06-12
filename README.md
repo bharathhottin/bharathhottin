@@ -1,7 +1,10 @@
 # 👨‍💻 Bharath J Hottin
 **Physical Design Engineer | VLSI Backend | RTL-to-GDSII**
 
-📍 Bangalore, India/
+📍 Bangalore, India
+
+📞 **Phone:** 8792832862
+
 🔗 **LinkedIn:**
 👉 https://linkedin.com/in/bharath-j-hottin
 
