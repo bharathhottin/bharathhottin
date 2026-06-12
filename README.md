@@ -32,7 +32,7 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 ## 🎯 Career Experience
 
 ### Physical Design Engineer Trainee
-**VLSI Training Institute – Bangalore** *(2024 – Present)*
+**VLSI Training Institute – Bangalore** *(2025)
 
 - Trained on Fusion Compiler, ICC2, PrimeTime, Design Compiler, StarRC
 - Developed TCL automation scripts for Physical Design flow
