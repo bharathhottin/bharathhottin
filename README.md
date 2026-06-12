@@ -107,5 +107,7 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 ## 🤝 Connect With Me
 
 🔗 LinkedIn: https://linkedin.com/in/bharath-j-hottin
+
 📸 Instagram: https://www.instagram.com/bharath_hottin_18/
+
 💻 GitHub: https://github.com/bharathhottin
