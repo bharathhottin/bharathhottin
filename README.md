@@ -67,18 +67,23 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 
 ## 🔥 Real-Time Projects
 
-### Physical Design – VLSI Backend Projects
-- Complete RTL-to-GDSII implementation
-- Multi-voltage domain designs
-- Timing closure and optimization
-- Tools: ICC2, DC, PrimeTime, StarRC
+### 🔹 SoC Block-Level Physical Design — ORCA TOP (32 nm)
+*VLSI GURU Institute · Synopsys IC Compiler II*
 
-**Key Work**
-- Iterative floorplanning and power planning
-- Timing-aware placement
-- CTS with low skew
-- Manual DRC fixes
-- Automated scripting using TCL
+> Implemented full block-level PD on a real SoC block — **40 macros, 52,047 standard cells, 5 clocks @ 450 MHz**.
+> Executed floorplanning → power planning → placement → CTS → routing, followed by DRC, LVS, and DFM checks.
+> Achieved **timing closure** and ECO optimization prior to tape-out.
+
+### 🔹 RTL-to-GDSII — 8-bit Magnitude Comparator
+*Rooman Technologies · OpenLane Open-Source EDA*
+
+> Implemented the complete **RTL-to-GDSII** flow using OpenLane. RTL verified on EDA Playground and synthesized using Yosys.
+> Debugged routing congestion, timing violations, and DRC errors to generate a clean, sign-off-ready GDSII layout.
+
+### 🔹 IoT-Based Registered Smart Parking System
+*Team Lead · Arduino UNO · RFID · IR Sensors · Servo Motors · I2C LCD*
+
+> Designed an automated parking management system with **RFID-based vehicle authentication**, IR-sensor occupancy detection, and real-time slot status on an LCD display.
 
 ---
 
