@@ -91,9 +91,9 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
-| **B.E. in Electronics & Communication Engineering** | SKSVMA College of Engineering and Technology, VTU — Lakshmeshwar, Gadag | <nobr>2021 – 2025</nobr> | **CGPA: 7.6** |
-| **Pre-University Course (PUC)** | Vijaya PU College, Bengaluru | <nobr>2019 – 2021</nobr> | 65% |
-| **Class 10 (CBSE)** | Sri Sri Ravishankar Vidya Mandir, Bengaluru | <nobr>2018 – 2019</nobr> | 62% |
+| **B.E. in Electronics & Communication Engineering** | SKSVMA College of Engineering and Technology, VTU — Lakshmeshwar, Gadag | 2021‑2025 | **CGPA: 7.6** |
+| **Pre-University Course (PUC)** | Vijaya PU College, Bengaluru | 2019‑2021 | 65% |
+| **Class 10 (CBSE)** | Sri Sri Ravishankar Vidya Mandir, Bengaluru | 2018‑2019 | 62% |
 
 ---
 
