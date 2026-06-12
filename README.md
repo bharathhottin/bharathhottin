@@ -96,8 +96,15 @@ Passionate about backend VLSI design and automation using **TCL scripting**.
 
 ## 🏅 Certifications
 
-- Physical Design – VLSI Guru / Training Institute
-- VLSI Engineer Training
+| Certification | Issuer | Year |
+|---|---|---|
+| VLSI Physical Design with Synopsys IC Compiler | VLSI GURU Institute | 2025–2026 |
+| VLSI Design Engineer Training | Rooman Technologies | 2024–2025 |
+| VLSI SoC Design using Verilog HDL | Maven Silicon | 2024 |
+| Cadence EDA Tools for Schematic Capture & Simulation | ekLakshya Innovation Labs | 2024 |
+| Foundations of Prompt Engineering | AWS | 2026 |
+| AI Essentials / Fundamentals / Professionals | Coursera & Google | 2026 |
+| Python using AI | AI for Techies | 2026 |
 
 
 ---
